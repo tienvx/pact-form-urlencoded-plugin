@@ -1,0 +1,8 @@
+{
+  "manifestVersion": 1,
+  "pluginInterfaceVersion": 1,
+  "name": "form-urlencoded",
+  "version": "0.0.1",
+  "executableType": "exec",
+  "entryPoint": "pact-form-urlencoded-plugin"
+}
